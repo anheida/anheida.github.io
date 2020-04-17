@@ -1,0 +1,44 @@
+
+
+
+#quanwen
+		{
+		margin: 10px 20px;	
+			
+		}
+
+
+h1
+		{
+		text-align: center;	
+		}
+
+div.img
+		  {
+		  margin:3px;
+		  border-top:solid #BEBEBE;
+		  border-bottom: dashed #333333;
+		  
+		  
+		  height:auto;
+		  width:auto;
+		  text-align:center;
+		  }
+		div.img img
+		  {
+		  display:inline;
+		  margin:3px;
+		  border:1px solid #bebebe;
+		  }
+		div.img a:hover img
+		  {
+		  border:1px solid #333333;
+		  }
+		div.desc
+		  {
+		  text-align:center;
+		  font-weight:normal;
+		  width:auto;
+		  font-size:20px;
+		  margin:10px 5px 10px 5px;
+		  }
